@@ -5,7 +5,7 @@ Lecture-Homepage: https://hci.iwr.uni-heidelberg.de/teaching/fundamentals_machin
 
 To compile the Python Notebooks, click on the following badge:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Spektralzerleger/FML/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Spektralzerleger/FML/main)
 
 Or on this URL: 
-https://mybinder.org/v2/gh/Spektralzerleger/FML/master
+https://mybinder.org/v2/gh/Spektralzerleger/FML/main
